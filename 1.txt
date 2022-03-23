@@ -1,3 +1,5 @@
 eto ne kak na servere
+eto ne kak na localke
+
 New text from 1.txt
 miha lox
