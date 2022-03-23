@@ -6,3 +6,4 @@ miha lox
 fail
 new branch line
 test
+add new strouk
