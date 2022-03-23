@@ -5,3 +5,4 @@ New text from 1.txt
 miha lox
 fail
 new branch line
+test
