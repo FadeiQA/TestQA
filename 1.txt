@@ -1,1 +1,2 @@
 add line
+New text from 1.txt
