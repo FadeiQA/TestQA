@@ -2,3 +2,11 @@ eto ne kak na servere
 New text from 1.txt
 miha lox
 add new line and another one
+eto ne kak na localke
+
+New text from 1.txt
+miha lox
+fail
+new branch line
+test
+add new strouk
