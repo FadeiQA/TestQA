@@ -1,2 +1,4 @@
-add line
+eto ne kak na servere
 New text from 1.txt
+miha lox
+add new line and another one
